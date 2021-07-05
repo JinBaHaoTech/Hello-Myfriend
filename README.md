@@ -1,2 +1,2 @@
 # Hi-Myfriend
-WeStar
+WeStar.Tech
